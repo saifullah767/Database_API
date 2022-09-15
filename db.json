@@ -1,0 +1,128 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "people": [
+      {
+        "id": 2,
+        "name": "Walter",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "id": 3,
+        "name": "Lenin",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "id": 4,
+        "name": "Skj",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "id": 5,
+        "name": "Ahmed",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "id": 6,
+        "name": "Abdul",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 7
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 8
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 9
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 10
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 11
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 12
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 13
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 14
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 15
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 16
+      },
+      {
+        "name": "this is my test data",
+        "email": "test.1@gmail.com",
+        "title": "testing new data",
+        "id": 17
+      },
+      {
+        "name": "irtaza",
+        "email": "ittu.123@gmail.com",
+        "title": "ittu",
+        "id": 18
+      }
+    ]
+  }
